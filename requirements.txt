@@ -13,3 +13,5 @@ langchain
 langgraph
 langchain-openai
 dotenv
+aiohttp
+python-multipart
