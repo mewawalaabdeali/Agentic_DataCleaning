@@ -9,3 +9,7 @@ uvicorn
 streamlit
 great-expectations
 scikit-learn
+langchain
+langgraph
+langchain-openai
+dotenv
