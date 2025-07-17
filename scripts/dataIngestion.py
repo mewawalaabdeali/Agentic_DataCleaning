@@ -7,6 +7,7 @@ from sqlalchemy.exc import SQLAlchemyError
 #from scripts.test_mysql_connection import engine
 from test_mysql_connection import engine
 
+
 DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "../data")
 
 class DataIngestion:
